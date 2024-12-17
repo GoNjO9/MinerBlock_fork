@@ -120,8 +120,6 @@
 *://*.crypto-webminer.com/*
 *://*.cpufan.club/*
 *://*.cryptobara.com/*
-*://*.webminepool.com/lib/*
-*://*.webminepool.com/captcha/*
 *://*.minero.cc/lib/*
 *://*.coinrail.io/lib/*
 *://*.marcycoin.org/captcha/*
